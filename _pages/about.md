@@ -1,7 +1,7 @@
 ---
 permalink: /aboutme/
 title: "About me"
-layout: home
+layout: default
 ---
 
 <i>“Learning never exhausts the Mind.” — Leonardo da Vinci</i>
