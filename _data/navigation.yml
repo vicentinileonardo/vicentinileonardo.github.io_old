@@ -2,13 +2,5 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  #- title: "About me"
-  #  url: /aboutme/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
   - title: "Resume"
-      url: /CV_Leonardo_Vicentini.pdf
+    url: /CV_Leonardo_Vicentini.pdf
