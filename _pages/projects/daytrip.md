@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /projects/daytrip
-title: "About me"
+title: "Daytrip - service-oriented cloud-native web application"
 author_profile: true
 header:
   overlay_image: /assets/images/back.png
@@ -12,23 +12,23 @@ toc_sticky: true
 
 ---
 
-# Daytrip - service-oriented cloud-native web application
-
 <!-- ### [ Feb. 2023 - Mar. 2023 ] -->
 
-### Project description
+## Project description
 
 The project aims to create a web application that suggests daytrip destinations in Italy based on weather conditions, travel time, and other indicators. A service-oriented architecture was used to build decoupled services that can be expanded and modified independently.
 
-### Repository, Report and Demo
+## Repository, Report and Demo
 
+{% raw %}
 <center>
     <button onclick="window.open('https://github.com/vicentinileonardo/daytrip','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
     <button onclick="window.open('/project_reports/daytrip.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
     <button onclick="window.open('https://drive.google.com/file/d/1k0KBPMmt-DaVHthZ1S2wKzhBID33X0ad/view?usp=sharing','_blank');" type="button" class="btn"><i class="fa fa-video-camera" aria-hidden="true" style="font-size:42px"></i></button>
 </center>
+{% endraw %}
 
-### Team and role
+## Team and role
 
 Team size: 2 people
 
@@ -37,7 +37,7 @@ Team size: 2 people
 + I was responsible for the configuration of the **Docker** images and the **Docker Compose** file. <br>
 + I proposed and implemented a workaround for a Docker issue that was preventing the correct execution of a service leveraging **matplotlib** Python library: the service is running in a serverless fashion, leveraging **AWS Lambda** and **AWS API Gateway**. <br>
 
-### Tech stack
+## Tech stack
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
