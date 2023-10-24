@@ -10,6 +10,9 @@ header:
 
 ---
 
-Hi! I am Leonardo Vicentini, a master student in Computer Science at the University of Trento. I am currently working on my master thesis on the topic of "Architectural analysis and design of a Kubernetes‑based SaaS".
+Hi! I am Leonardo Vicentini, a master's degree student in Computer Science at the University of Trento. 
+
+I am currently working on my master thesis on the topic of "Architectural analysis and design of a Kubernetes‑based SaaS".
+
 My research interests include cloud computing, distributed systems, and software engineering in general.
 
