@@ -1,9 +1,10 @@
 ---
-title: "Home"
-#excerpt: "Page not found. Your pixels are in another canvas."
-#sitemap: false
-#permalink: /404.html
 layout: splash
+permalink: /
+hidden: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/background.jpg
 ---
 
 test test test
