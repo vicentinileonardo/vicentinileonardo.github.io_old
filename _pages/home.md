@@ -12,7 +12,9 @@ Hi! I am Leonardo Vicentini, a master's degree student in Computer Science at th
 
 I am currently working on my master thesis on the topic of "Architectural analysis and design of a Kubernetes‑based SaaS".
 
-My research interests include cloud computing, distributed systems, and software engineering in general.
+My research interests include **cloud computing**, **distributed systems**, and **software engineering** in general.
+
+<br>
 
 <i>“Learning never exhausts the Mind.” — Leonardo da Vinci</i>
 
