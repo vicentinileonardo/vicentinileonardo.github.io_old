@@ -2,6 +2,7 @@
 layout: single
 permalink: /projects/daytrip
 title: "Daytrip - service-oriented cloud-native web application"
+subtitle: "Service-oriented cloud-native web application"
 author_profile: true
 header:
   overlay_image: /assets/images/back.png
