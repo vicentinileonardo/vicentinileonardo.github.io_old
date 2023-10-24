@@ -1,32 +1,14 @@
 ---
+layout: single
 permalink: /aboutme/
 title: "About me"
-layout: default
+author_profile: true
+header:
+  overlay_image: /assets/images/back.png
+  overlay_filter: 0.5
+toc: true
 ---
 
-<i>“Learning never exhausts the Mind.” — Leonardo da Vinci</i>
-
-Hi, I'm Leonardo, a Master's degree student in **Computer Science** at the University of Trento, Italy.
-In September I will begin my thesis work as the final step toward completion of my studies.
-I am curious about cloud-native solutions and system design in general. Interested in experimenting with and learning about cutting-edge technologies, tools, and paradigms.
-
-<br>
-<hr style="border:2px solid gray"> 
-<br>
-
-# Work Experience
-
-### Software/Cloud Engineer Intern
-
-Krateo - *Oct 2023 - Present*
-
-### Software Engineer Intern
-
-FIPIC – Italian Wheelchair Basketball Federation - *Feb 2021 - Jun 2021*
-
-<br>
-<hr style="border:2px solid gray"> 
-<br>
 
 # Hobbies
 
@@ -41,7 +23,7 @@ I like to read papers and articles about future theories and technologies like t
 I am excited to see what the future holds for space exploration and **humanity's place in the universe**.
 
 <center>
-<img src="/assets/img/spacex.jpg" alt="SpaceX" width="75%" height=auto>
+<img src="/assets/images/spacex.jpg" alt="SpaceX" width="75%" height=auto>
 </center>
 
 <br>
@@ -57,7 +39,7 @@ This project is on my list of things to do in the future.
 Beyond Tarantino, I appreciate movies like Inception, The Matrix, Blade Runner and Interstellar that explore the nature of reality and the human mind. I also enjoy watching **documentaries** about space, science, and history. I find it fascinating to learn about the world around us and the people who have shaped it.
 
 <center>
-<img src="/assets/img/pulp_fiction_logo.png" alt="Pulp Fiction logo" width="75%" height=auto>
+<img src="/assets/images/pulp_fiction_logo.png" alt="Pulp Fiction logo" width="75%" height=auto>
 </center>
 
 <br>
@@ -108,4 +90,5 @@ Technically I have also been to, but don't count:
 + Laos 🇱🇦 (2017)
 
 <br>
+
 Those are just a few of my passions outside of university and work. I find that following my hobbies keeps me learning, curious and engaged with the world. 
