@@ -2,13 +2,14 @@
 layout: single
 permalink: /projects/daytrip
 title: "Daytrip - service-oriented cloud-native web application"
-subtitle: "Service-oriented cloud-native web application"
 author_profile: true
 header:
   overlay_image: /assets/images/back.png
   overlay_filter: 0.5
 toc: true
 toc_sticky: true
+toc_label: "Contents"
+
 
 
 ---
@@ -23,9 +24,9 @@ The project aims to create a web application that suggests daytrip destinations 
 
 {% raw %}
 <center>
-    <button onclick="window.open('https://github.com/vicentinileonardo/daytrip','_blank');" type="button" class="btn" ><i class="fa fa-github" style="font-size:42px"></i></button>
-    <button onclick="window.open('/project_reports/daytrip.pdf','_blank');" type="button" class="btn"><i class="fa fa-file-pdf-o" style="font-size:42px"></i></button>
-    <button onclick="window.open('https://drive.google.com/file/d/1k0KBPMmt-DaVHthZ1S2wKzhBID33X0ad/view?usp=sharing','_blank');" type="button" class="btn"><i class="fa fa-video-camera" aria-hidden="true" style="font-size:42px"></i></button>
+  <a href="https://github.com/vicentinileonardo/daytrip" target="_blank" class="btn"><i class="fa fa-github" style="font-size: 42px;"></i></a>
+  <a href="/project_reports/daytrip.pdf" target="_blank" class="btn"><i class="fa fa-file-pdf-o" style="font-size: 42px;"></i></a>
+  <a href="https://drive.google.com/file/d/1k0KBPMmt-DaVHthZ1S2wKzhBID33X0ad/view?usp=sharing" target="_blank" class="btn"><i class="fa fa-video-camera" aria-hidden="true" style="font-size: 42px;"></i></a>
 </center>
 {% endraw %}
 
