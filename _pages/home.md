@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5
 ---
 
-Hi! I am Leonardo Vicentini, a master's degree student in Computer Science at the University of Trento. 
+Hi! I am Leonardo Vicentini, Computer Science master's degree student and software engineer.
 
 I am currently working on my master thesis on the topic of "Architectural analysis and design of a Kubernetes‑based SaaS".
 
