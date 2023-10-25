@@ -68,7 +68,7 @@ Since I was in elementary school, Geography has been one of my favorite subjects
 In particular, I like to learn about some of the most remote and isolated places on Earth like the Pitcairn Islands, Tristan da Cunha and the Kerguelen Islands. 
  
 At 11 years old I knew almost all the capitals of the world and I was able to locate all the countries on the map. I was very proud of this achievement and I showed it to my parents and friends. 
-Unfortunately, I have forgotten most of the capitals. Therefore, I am currently building a **web app** to help me learn them again and improve some technical skills in the process. When it is ready, it will be published on [guesscapitals.com](guesscapitals.com).
+Unfortunately, I have forgotten most of the capitals. Therefore, I am currently building a **web app** to help me learn them again and improve some technical skills in the process. When it is ready, it will be published on [guesscapitals.com](https://guesscapitals.com).
 
 <br>
 
