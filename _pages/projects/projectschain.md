@@ -3,7 +3,7 @@ layout: single
 permalink: /projects/projectschain
 title: "ProjectsChain - Ethereum-based CAD designs marketplace"
 categories:
-  - Project
+  - Projects
 author_profile: true
 header:
   overlay_image: /assets/images/back.png
