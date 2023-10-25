@@ -22,6 +22,8 @@ The project aims to create a web application that suggests daytrip destinations 
 
 ## Repository, Report and Demo
 
+[Text](#link){: .btn .btn--primary}
+
 {% raw %}
 <center>
   <a href="https://github.com/vicentinileonardo/daytrip" target="_blank" class="btn"><i class="fa fa-github" style="font-size: 42px;"></i></a>
