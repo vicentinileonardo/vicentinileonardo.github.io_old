@@ -62,6 +62,16 @@ The comparison might seem a bit far-fetched, but I think it's a good way to trai
 
 <br>
 
+## Geography 🌍
+
+Since I was in elementary school, Geography has been one of my favorite subjects. 
+In particular, I like to learn about some of the most remote and isolated places on Earth like the Pitcairn Islands, Tristan da Cunha and the Kerguelen Islands. 
+ 
+At 11 years old I knew almost all the capitals of the world and I was able to locate all the countries on the map. I was very proud of this achievement and I showed it to my parents and friends. 
+Unfortunately, I have forgotten most of the capitals. Therefore, I am currently building a **web app** to help me learn them again and improve some technical skills in the process. When it is ready, it will be published on guesscapitals.com.
+
+<br>
+
 ## Travel 🗺️
 
 I love to travel and explore new places. I enjoy learning about different cultures and seeing the world from a different perspective. I have been to quite a few countries and I hope to visit more in the future. I would like to travel to South America and Australia to experience different cultures and see the beautiful landscapes. I am also interested in visiting the United States to see the big cities and the national parks.
