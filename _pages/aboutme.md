@@ -8,8 +8,6 @@ header:
   overlay_filter: 0.5
 toc: true
 toc_sticky: true
-
-
 ---
 
 
@@ -79,7 +77,7 @@ Some of the cities that I have been and that I would live in are: **London**, **
 
 So far I have visited:
 
-Europe
+**Europe**
 + France 🇫🇷 (2013)
 + Spain 🇪🇸 (2006, 2015, 2022)
 + Portugal 🇵🇹 (2018)
@@ -89,18 +87,18 @@ Europe
 + Greece 🇬🇷 (2018)
 + Vatican City 🇻🇦 (2012, 2017)
 
-Africa
+**Africa**
 + Egypt 🇪🇬 
 + Tunisia 🇹🇳
 
-Asia
+**Asia**
 + Thailand 🇹🇭 (2017)
 + Malaysia 🇲🇾 (2019)
 
 Technically I have also been to, but don't count:
 + Austria 🇦🇹 (2013)
-+ United Arab Emirates 🇦🇪 (2019)
 + Laos 🇱🇦 (2017)
++ United Arab Emirates 🇦🇪 (2019)
 
 <br>
 
