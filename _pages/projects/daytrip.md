@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /projects/daytrip
-title: "Daytrip - service-oriented cloud-native web application"
+title: "Daytrip: service-oriented web app for daytrips suggestions in Italy"
 categories:
   - Project
 author_profile: true

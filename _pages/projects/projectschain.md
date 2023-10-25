@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /projects/projectschain
-title: "Daytrip - service-oriented cloud-native web application"
+title: "ProjectsChain - Ethereum-based CAD designs marketplace"
 categories:
   - Project
 author_profile: true
@@ -19,7 +19,6 @@ toc_label: "Contents"
 ProjectsChain is a plugin developed in order to be integrated with already existing e-shops of industrial designs and is able to grant, using a public **blockchain** and through **smart contracts**, the intellectual property of the projects and a fair royalty distribution between coauthors of a final project. The straightforward and transparent mechanism developed also will prevent non-payment and miscommunication risks, representing common scenarios among freelancers.
 
 ## Repository, Report and Demo
-
 
 {% raw %}
 <center>
@@ -43,7 +42,6 @@ Master smart contract.
 
 
 ## Tech stack
-
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
