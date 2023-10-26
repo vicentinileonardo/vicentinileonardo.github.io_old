@@ -92,6 +92,7 @@ Unfortunately, I have forgotten most of the capitals. Therefore, I am currently 
 ## Sports ⚽
 
 I have always been a sports fan. I like to watch football, volleyball and Formula 1. I used to play football when I was younger and sometimes I still play with my friends. 
+
 Today I'm approaching to running.
 
 <!-- aggiungere foto -->
@@ -137,6 +138,7 @@ Technically I have also been to, but don't count:
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
+{% include Carousel.html height="50" unit="%" duration="7" %}
 
 <br>
 
