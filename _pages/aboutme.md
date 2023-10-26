@@ -110,7 +110,7 @@ Technically I have also been to, but don't count:
 
 <!-- insert svg-->
 <center>
- <object type="image/svg+xml" data="/assets/images/map.svg" width="100%" height="auto"> </object> -->
+ <object type="image/svg+xml" data="/assets/images/map.svg" width="100%" height="auto"> </object>
 </center>
 
 <br>
