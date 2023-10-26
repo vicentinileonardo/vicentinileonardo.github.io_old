@@ -83,7 +83,7 @@ So far I have visited:
 + Spain 🇪🇸 (2006, 2015, 2022)
 + Portugal 🇵🇹 (2018)
 + Germany 🇩🇪 (2017)
-+ United Kingdom 🇬🇧 (2014, 2016)
++ England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (2014, 2016)
 + Croatia 🇭🇷 (2017)
 + Greece 🇬🇷 (2018)
 + Vatican City 🇻🇦 (2012, 2017)
@@ -100,6 +100,11 @@ Technically I have also been to, but don't count:
 + Austria 🇦🇹 (2013)
 + Laos 🇱🇦 (2017)
 + United Arab Emirates 🇦🇪 (2019)
+
+<!-- https://www.mapchart.net/world.html -->
+<center>
+<img src="/assets/images/map.png" alt="Visited countries" width="75%" height=auto>
+</center>
 
 <br>
 
