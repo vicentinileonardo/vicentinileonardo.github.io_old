@@ -110,7 +110,7 @@ Technically I have also been to, but don't count:
 
 <!-- insert svg-->
 <center>
-<img src="/assets/images/map.svg" alt="Visited countries" width="95%" height=auto>
+  <img src="{{ site.baseurl }}/assets/images/map.svg" alt="Visited countries" width="95%" height="auto">
 </center>
 
 <br>
