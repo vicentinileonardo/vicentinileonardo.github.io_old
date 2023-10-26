@@ -8,6 +8,24 @@ header:
   overlay_filter: 0.5
 toc: true
 toc_sticky: true
+
+gallery:
+  - url: /assets/images/thailand/1.jpg
+    image_path: /assets/images/thailand_2017/1.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/thailand/2.jpg
+    image_path: /assets/images/thailand_2017/2.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/images/unsplash-gallery-image-4.jpg
+    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
 ---
 
 
@@ -116,6 +134,8 @@ Technically I have also been to, but don't count:
 <br>
 
 <!-- insert svg-->
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 
 <br>
