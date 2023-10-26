@@ -136,7 +136,7 @@ Technically I have also been to, but don't count:
 
 <!-- insert svg-->
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+<!--  {% include gallery caption="This is a sample gallery with **Markdown support**." %} -->
 
 <!--  {% include photos_carousel.html %} -->
 
