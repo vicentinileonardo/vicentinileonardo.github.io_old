@@ -138,8 +138,6 @@ Technically I have also been to, but don't count:
 
 <!--  {% include gallery caption="This is a sample gallery with **Markdown support**." %} -->
 
-<!--  {% include photos_carousel.html %} -->
-
 <br>
 
 Those are just a few of my passions outside of university and work. I find that following my hobbies keeps me learning, curious and engaged with the world. 
