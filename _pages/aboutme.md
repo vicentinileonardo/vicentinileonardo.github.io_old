@@ -22,8 +22,8 @@ gallery:
     image_path: /assets/images/personal_photos/thailand_2017/2.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+  - url: /assets/images/personal_photos/portugal_2018/IMG_0781.JPG
+    image_path: /assets/images/personal_photos/portugal_2018/IMG_0781.JPG
     alt: "placeholder image 4"
     title: "Image 4 title caption"
 ---
