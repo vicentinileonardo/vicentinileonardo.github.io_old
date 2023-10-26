@@ -10,7 +10,7 @@ toc: true
 toc_sticky: true
 
 gallery:
-  - url: /assets/images/thailand/1.jpg
+  - url: /assets/images/personal_photos/thailand_2017/1.jpg
     image_path: /assets/images/personal_photos/thailand_2017/1.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
