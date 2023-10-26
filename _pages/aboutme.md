@@ -71,6 +71,13 @@ Unfortunately, I have forgotten most of the capitals. Therefore, I am currently 
 
 <br>
 
+## Sports ⚽
+
+I have always been a sports fan. I like to watch football, volleyball and Formula 1. I used to play football when I was younger and sometimes I still play with my friends. 
+Today I'm approaching to running.
+
+<!-- aggiungere foto -->
+
 ## Travel 🗺️
 
 I love to travel and explore new places. I enjoy learning about different cultures and seeing the world from a different perspective. I have been to quite a few countries and I hope to visit more in the future. I would like to travel to South America and Australia to experience different cultures and see the beautiful landscapes. I am also interested in visiting the United States to see the big cities and the national parks.
@@ -109,9 +116,7 @@ Technically I have also been to, but don't count:
 <br>
 
 <!-- insert svg-->
-<center>
-  <img src="{{ site.baseurl }}/assets/images/map.svg" alt="Visited countries" width="95%" height="auto">
-</center>
+
 
 <br>
 
