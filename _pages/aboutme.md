@@ -53,7 +53,7 @@ I am an avid movie lover, especially those with an intriguing plot that makes me
 
 I had the idea of creating a **software project** that analyzes Tarantino's movies and extracts interesting information from them. For example, I would like to create a graph of the characters and their relationships in each movie, since they are often **connected** in surprising ways.
 I would also like to analyze the dialogues and create some visualizations of the most used words and phrases. I think this would be a fun project to work on and a great way to learn more about data analysis and visualization, which is a field I am interested in.
-This project is on my list of things to do in the future.
+This project is on my list of things to do in the future and when it is ready, it will be published on [tarantino.world](https://tarantino.world).
 
 Beyond Tarantino, I appreciate movies like Inception, The Matrix, Blade Runner and Interstellar that explore the nature of reality and the human mind. I also enjoy watching **documentaries** about space, science, and history. I find it fascinating to learn about the world around us and the people who have shaped it.
 
