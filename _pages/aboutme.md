@@ -138,7 +138,7 @@ Technically I have also been to, but don't count:
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
-{% include Carousel.html height="50" unit="%" duration="7" %}
+{% include photo_carousel.html %}
 
 <br>
 
