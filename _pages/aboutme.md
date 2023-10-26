@@ -103,7 +103,14 @@ Technically I have also been to, but don't count:
 
 <!-- https://www.mapchart.net/world.html -->
 <center>
-<img src="/assets/images/map.png" alt="Visited countries" width="75%" height=auto>
+<img src="/assets/images/map.png" alt="Visited countries" width="95%" height=auto>
+</center>
+
+<br>
+
+<!-- insert svg-->
+<center>
+ <object type="image/svg+xml" data="/assets/images/map.svg" width="100%" height="auto"> </object> -->
 </center>
 
 <br>
