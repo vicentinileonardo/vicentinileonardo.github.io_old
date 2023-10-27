@@ -34,6 +34,15 @@ gallery:
 In my free time, I enjoy a variety of activities that stimulate my mind. I love **discovering new things** and **broadening my knowledge**.
 Here are a few of my current hobbies:
 
+## Side Projects 🏗
+
+I like to work on side projects to learn new technologies and improve my skills. Usually, the ideas come from my interests and passions. Unfortunately, I don't have much time to work on them, but I try to do it whenever I can.
+
+Currently, on my list of projects to do, there are:
++ [**guesscapitals.com**](https://www.guesscapitals.com): a web app to learn the capitals of the world
++ **tarantino.world**: a software project to analyze Tarantino's movies
++ **books.tips**: a book recommendation system
+
 ## Space Exploration 🚀
 
 I have always been fascinated by space and everything about it. I keep up with the latest space exploration missions and discoveries. I follow SpaceX, NASA and the European Space Agency to stay informed of new satellites, rovers, and astronaut flights. I love seeing amazing photographs from space and learning about the mysteries of our solar system and the universe. I am especially interested in the search for extraterrestrial life and the possibility of colonizing other planets. 
