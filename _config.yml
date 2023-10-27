@@ -110,7 +110,7 @@ author:
   location         : "Europe"
   email            :
   links:
-    - label: "Email"
+    - label: "vicentini.leonardo99@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:vicentini.leonardo99@gmail.com"
     #- label: "Website"
@@ -135,7 +135,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Email"
+    - label: "vicentini.leonardo99@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:vicentini.leonardo99@gmail.com"
     #- label: "Website"
