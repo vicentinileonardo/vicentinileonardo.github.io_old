@@ -40,7 +40,7 @@ I like to work on side projects to learn new technologies and improve my skills.
 
 Currently, on my list of projects to do, there are:
 + [**guesscapitals.com**](https://www.guesscapitals.com): a web app to learn the capitals of the world
-+ **tarantino.world**: a software project to analyze Tarantino's movies
++ [**tarantino.world**](https://tarantino.world): a software project to analyze Tarantino's movies
 + **books.tips**: a book recommendation system
 
 ## Space Exploration 🚀
