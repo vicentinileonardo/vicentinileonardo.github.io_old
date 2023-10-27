@@ -139,7 +139,7 @@ Technically I have also been to, but don't count:
 
 <!-- https://www.mapchart.net/world.html -->
 <center>
-<img src="/assets/images/map.png" alt="Visited countries" width="95%" height=auto>
+<img src="/assets/images/map.png" alt="Visited countries" width="100%" height=auto>
 </center>
 
 <br>
