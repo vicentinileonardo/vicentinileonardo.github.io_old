@@ -9,25 +9,9 @@ header:
 toc: true
 toc_sticky: true
 
-gallery:
-  - url: assets/images/personal_photos/barcelona_2022/1.JPG
-    image_path: assets/images/personal_photos/barcelona_2022/1.JPG
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/thailand/2.jpg
-    image_path: /assets/images/personal_photos/thailand_2017/2.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/thailand/3.jpg
-    image_path: /assets/images/personal_photos/thailand_2017/2.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: /assets/images/personal_photos/portugal_2018/IMG_0781.JPG
-    image_path: /assets/images/personal_photos/portugal_2018/IMG_0781.JPG
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
 ---
 
+In this page you can know more about myself, my passions and my hobbies.
 
 # Hobbies
 
@@ -147,6 +131,8 @@ Technically I have also been to, but don't count:
 <!-- insert svg-->
 
 <!--  {% include gallery caption="This is a sample gallery with **Markdown support**." %} -->
+
+{% include photos_carousel.html %}
 
 
 <br>
