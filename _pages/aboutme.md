@@ -39,9 +39,10 @@ Here are a few of my current hobbies:
 I like to work on side projects to learn new technologies and improve my skills. Usually, the ideas come from my interests and passions. Unfortunately, I don't have much time to work on them, but I try to do it whenever I can.
 
 Currently, on my list of projects to do, there are:
-+ [**guesscapitals.com**](https://www.guesscapitals.com): a web app to learn the capitals of the world
-+ [**tarantino.world**](https://tarantino.world): a software project to analyze Tarantino's movies
-+ **books.tips**: a book recommendation system
++ [**guesscapitals.com**](https://www.guesscapitals.com): a web app to learn the capitals of the world. (Work in progress)
++ [**tarantino.world**](https://tarantino.world): a software project to analyze Tarantino's movies. (Work in progress)
++ [**books.tips**](https://books.tips): a book recommendation system. (Work in progress)
+
 
 ## Space Exploration 🚀
 
