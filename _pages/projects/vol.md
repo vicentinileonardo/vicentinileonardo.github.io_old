@@ -2,8 +2,6 @@
 layout: single
 permalink: /projects/video_outpainting_localizer
 title: "Video outpainting localizer"
-categories:
-  - Projects
 author_profile: true
 header:
   overlay_image: /assets/images/back.png

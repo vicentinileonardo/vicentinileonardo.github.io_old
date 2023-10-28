@@ -1,9 +1,7 @@
 ---
 layout: single
-permalink: /projects/parallel_convex_hull_solver
-title: "Parallel convex hull solver"
-categories:
-  - Projects
+permalink: /projects/convex_hull_parallel_solver
+title: "Convex hull parallel solver"
 author_profile: true
 header:
   overlay_image: /assets/images/back.png
