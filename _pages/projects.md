@@ -13,4 +13,4 @@ classes: wide
 
 test test test
 
-{ include projects_grid.html}
+{ include projects_grid.html }
