@@ -11,4 +11,6 @@ classes: wide
 
 ---
 
-test tes tets 
+test test test
+
+{ include projects_grid.html}
