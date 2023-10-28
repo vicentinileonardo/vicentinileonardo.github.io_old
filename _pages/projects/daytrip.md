@@ -2,8 +2,6 @@
 layout: single
 permalink: /projects/daytrip
 title: "Daytrip: service-oriented web app for daytrips suggestions in Italy"
-categories:
-  - Projects
 author_profile: true
 header:
   overlay_image: /assets/images/back.png
