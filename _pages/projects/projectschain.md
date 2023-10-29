@@ -16,7 +16,9 @@ toc_label: "Contents"
 
 ## Project description
 
-ProjectsChain is a plugin developed in order to be integrated with already existing e-shops of industrial designs and is able to grant, using a public **blockchain** and through **smart contracts**, the intellectual property of the projects and a fair royalty distribution between coauthors of a final project. The straightforward and transparent mechanism developed also will prevent non-payment and miscommunication risks, representing common scenarios among freelancers.
+ProjectsChain is a plugin developed in order to be integrated with already existing e-shops of industrial designs and is able to grant, using a public **blockchain** and through **smart contracts**, the intellectual property of the projects and a fair royalty distribution between coauthors of a final project. 
+
+The straightforward and transparent mechanism developed also will prevent non-payment and miscommunication risks, representing common scenarios among freelancers.
 
 ## Repository, Report and Demo
 

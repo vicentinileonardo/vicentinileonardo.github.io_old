@@ -15,7 +15,9 @@ toc_label: "Contents"
 
 ## Project description
 
-Parallel implementation of the Divide and Conquer algorithm for the convex hull problem. The implementation is based on the **C** programming language and leverages **MPI** and **OpenMP** libraries. The solution was tested on a **High-Performance Computing cluster** with specific PBS configuration files.
+Parallel implementation of the Divide and Conquer algorithm for the convex hull problem. 
+
+The implementation is based on the **C** programming language and leverages **MPI** and **OpenMP** libraries. The solution was tested on a **High-Performance Computing cluster** with specific PBS configuration files.
 
 ## Repository and Report
 

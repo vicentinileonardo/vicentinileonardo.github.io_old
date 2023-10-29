@@ -15,7 +15,9 @@ toc_label: "Contents"
 
 ## Project description
 
-The project aims to create a web application that suggests daytrip destinations in Italy based on weather conditions, travel time, and other indicators. A service-oriented architecture was used to build decoupled services that can be expanded and modified independently.
+The project aims to create a web application that suggests daytrip destinations in Italy based on weather conditions, travel time, and other indicators. 
+
+A service-oriented architecture was used to build decoupled services that can be expanded and modified independently.
 
 ## Repository, Report and Demo
 

@@ -15,7 +15,11 @@ toc_label: "Contents"
 
 ## Project description
 
-The goal of this project is to classify galaxies images into **10 different classes**. In order to achieve this goal, several models have been trained and tested, as explained in the report. The final model is leveraging a pre-trained **VGG19** network as a feature extractor and **Support Vector Machines** as a classifier. The model has been trained on a dataset of 9928 images, validated on 2487 images and tested on 5321 images. The model has achieved a sample-wise accuracy of 85.6% and a class-wise accuracy of 83.8% on the test set.
+The goal of this project is to classify galaxies images into **10 different classes**. In order to achieve this goal, several models have been trained and tested, as explained in the report. 
+
+The final model is leveraging a pre-trained **VGG19** network as a feature extractor and **Support Vector Machines** as a classifier. 
+
+The model has been trained on a dataset of 9928 images, validated on 2487 images and tested on 5321 images. It has achieved a sample-wise accuracy of 85.6% and a class-wise accuracy of 83.8% on the test set.
 
 ## Repository and Report
 

@@ -15,9 +15,12 @@ toc_label: "Contents"
 
 ## Project description
 
-A digital watermarking tool developed for the **"Catch the Mark" competition** of the Multimedia Data Security graduate course at the University of Trento. <br>
-The implementation is based on various research papers and leverages **Discrete Wavelet Transform** and **Singular Value Decomposition**. <br>
-The repository contains code for embedding, detecting, and attacking watermarked images. <br>
+A digital watermarking tool developed for the **"Catch the Mark" competition** of the Multimedia Data Security graduate course at the University of Trento.
+
+The implementation is based on various research papers and leverages **Discrete Wavelet Transform** and **Singular Value Decomposition**. 
+
+The repository contains code for embedding, detecting, and attacking watermarked images. 
+
 Overall, the embedding strategy was evaluated as interesting and effective. <br>
 **Azure IaaS** (VM with configured Python venv), Google Colab (Jupyter notebooks) and local machines were exploited for the parallelization of the attack phase.
 
