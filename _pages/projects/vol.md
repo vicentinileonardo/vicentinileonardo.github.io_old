@@ -25,7 +25,7 @@ Code not available due to non-disclosure agreement.
 
 {% raw %}
 <center>  
-  <a href="/project_reports/video_outpainting_localizer.pdf" target="_blank" class="btn"><i class="fa fa-file-pdf-o" style="font-size: 42px;"></i></a>
+  <a href="/projects/reports/video_outpainting_localizer.pdf" target="_blank" class="btn"><i class="fa fa-file-pdf-o" style="font-size: 42px;"></i></a>
 </center>
 {% endraw %}
 

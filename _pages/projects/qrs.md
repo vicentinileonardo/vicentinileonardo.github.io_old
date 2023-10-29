@@ -24,7 +24,7 @@ toc_label: "Contents"
 {% raw %}
 <center>
   <a href="https://github.com/vicentinileonardo/query-recommendation-system" target="_blank" class="btn"><i class="fa fa-github" style="font-size: 42px;"></i></a>
-  <a href="/project_reports/query_recommendation_system.pdf" target="_blank" class="btn"><i class="fa fa-file-pdf-o" style="font-size: 42px;"></i></a>
+  <a href="/projects/reports/query_recommendation_system.pdf" target="_blank" class="btn"><i class="fa fa-file-pdf-o" style="font-size: 42px;"></i></a>
 </center>
 {% endraw %}
 

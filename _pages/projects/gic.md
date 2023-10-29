@@ -22,7 +22,7 @@ The goal of this project is to classify galaxies images into **10 different clas
 {% raw %}
 <center>
   <a href="https://github.com/vicentinileonardo/galaxies-image-classification" target="_blank" class="btn"><i class="fa fa-github" style="font-size: 42px;"></i></a>
-  <a href="/project_reports/galaxies_image_classification.pdf" target="_blank" class="btn"><i class="fa fa-file-pdf-o" style="font-size: 42px;"></i></a>
+  <a href="/projects/reports/galaxies_image_classification.pdf" target="_blank" class="btn"><i class="fa fa-file-pdf-o" style="font-size: 42px;"></i></a>
 </center>
 {% endraw %}
 

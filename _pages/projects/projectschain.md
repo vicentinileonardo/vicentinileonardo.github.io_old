@@ -23,7 +23,7 @@ ProjectsChain is a plugin developed in order to be integrated with already exist
 {% raw %}
 <center>
   <a href="https://github.com/vicentinileonardo/projectschain" target="_blank" class="btn"><i class="fa fa-github" style="font-size: 42px;"></i></a>
-  <a href="/project_reports/projects_chain.pdf" target="_blank" class="btn"><i class="fa fa-file-pdf-o" style="font-size: 42px;"></i></a>
+  <a href="/projects/reports/projects_chain.pdf" target="_blank" class="btn"><i class="fa fa-file-pdf-o" style="font-size: 42px;"></i></a>
   <a href="https://drive.google.com/file/d/1NBfR3Tln6dz7mGiXHSfOW1VU1A21XQo1/view?usp=sharing" target="_blank" class="btn"><i class="fa fa-video-camera" aria-hidden="true" style="font-size: 42px;"></i></a>
 </center>
 {% endraw %}

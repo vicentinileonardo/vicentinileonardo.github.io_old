@@ -22,7 +22,7 @@ The project aims to create a web application that suggests daytrip destinations 
 {% raw %}
 <center>
   <a href="https://github.com/vicentinileonardo/daytrip" target="_blank" class="btn"><i class="fa fa-github" style="font-size: 42px;"></i></a>
-  <a href="/project_reports/daytrip.pdf" target="_blank" class="btn"><i class="fa fa-file-pdf-o" style="font-size: 42px;"></i></a>
+  <a href="/projects/reports/daytrip.pdf" target="_blank" class="btn"><i class="fa fa-file-pdf-o" style="font-size: 42px;"></i></a>
   <a href="https://drive.google.com/file/d/1k0KBPMmt-DaVHthZ1S2wKzhBID33X0ad/view?usp=sharing" target="_blank" class="btn"><i class="fa fa-video-camera" aria-hidden="true" style="font-size: 42px;"></i></a>
 </center>
 {% endraw %}
