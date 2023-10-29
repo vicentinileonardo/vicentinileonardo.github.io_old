@@ -22,7 +22,7 @@ Parallel implementation of the Divide and Conquer algorithm for the convex hull 
 {% raw %}
 <center>
   <a href="https://github.com/vicentinileonardo/parallel-convex-hull" target="_blank" class="btn"><i class="fa fa-github" style="font-size: 42px;"></i></a>
-  <a href="/project_reports/parallel_convex_hull_solver.pdf" target="_blank" class="btn"><i class="fa fa-file-pdf-o" style="font-size: 42px;"></i></a>
+  <a href="/projects/reports/parallel_convex_hull_solver.pdf" target="_blank" class="btn"><i class="fa fa-file-pdf-o" style="font-size: 42px;"></i></a>
 </center>
 {% endraw %}
 
