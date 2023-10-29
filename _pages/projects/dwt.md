@@ -11,6 +11,8 @@ toc_sticky: true
 toc_label: "Contents"
 ---
 
+<!-- ### [ Oct. 2022 - Nov 2022 ] -->
+
 ## Project description
 
 A digital watermarking tool developed for the **"Catch the Mark" competition** of the Multimedia Data Security graduate course at the University of Trento. <br>
