@@ -20,7 +20,7 @@ A web app that allows users to register, login, and find other users based on th
 The goal of the project was to learn to design and develop RESTful APIs using Node.js and Express.js. The project was developed in a team of 5 people and Scrum was adopted as an agile workflow methodology.
 Pair programming was also adopted as a development technique since it was the first time working with Node.js and REST for some of the team members.
 
-## Repository and Report
+## Repository
 
 {% raw %}
 <center>
