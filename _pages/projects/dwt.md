@@ -29,6 +29,7 @@ Overall, the embedding strategy was evaluated as interesting and effective. <br>
 {% raw %}
 <center>
   <a href="https://github.com/vicentinileonardo/DWT-SVD-digital-watermarking" target="_blank" class="btn"><i class="fa fa-github" style="font-size: 42px;"></i></a>
+  <a href="/projects/reports/digital_watermarking_tool.pdf" target="_blank" class="btn"><i class="fa fa-file-pdf-o" style="font-size: 42px;"></i></a>
 </center>
 {% endraw %}
 
