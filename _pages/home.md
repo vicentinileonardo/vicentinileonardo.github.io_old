@@ -10,8 +10,6 @@ header:
 
 Hi! I am Leonardo Vicentini, Computer Science master's degree student and software engineer.
 
-I am currently working on my master thesis on the topic of "Architectural analysis and design of a Kubernetes‑based SaaS".
-
 My research interests include **cloud computing**, **distributed systems**, and **software engineering** in general.
 
 <br>
