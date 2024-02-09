@@ -52,4 +52,4 @@ Team size: 2
 
 ## Tech stack
 
-![Java](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
