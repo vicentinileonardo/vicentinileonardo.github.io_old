@@ -34,9 +34,9 @@ A web server was created to interact with the system, firing: client operations,
 
 {% raw %}
 <center>
-  <a href="https://github.com/vicentinileonardo/distributed_cache" target="_blank" class="btn"><i class="fa fa-github" style="font-size: 42px;"></i></a>
+  <a href="https://github.com/vicentinileonardo/distributed-cache" target="_blank" class="btn"><i class="fa fa-github" style="font-size: 42px;"></i></a>
   <a href="/projects/reports/distributed_cache.pdf" target="_blank" class="btn"><i class="fa fa-file-pdf-o" style="font-size: 42px;"></i></a>
-  <a href="https://leonardovicentini.com/abc" target="_blank" class="btn"><i class="fa fa-video-camera" aria-hidden="true" style="font-size: 42px;"></i></a>
+  <a href="https://leonardovicentini.com/dc_demo_to_be_uploaded" target="_blank" class="btn"><i class="fa fa-video-camera" aria-hidden="true" style="font-size: 42px;"></i></a>
 </center>
 {% endraw %}
 
